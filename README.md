@@ -1,3 +1,13 @@
+# Picture Finder React App
+
+This is an app made after a tutorial in the Modern React and Redux Udemy Course (https://www.udemy.com/course/react-redux/) that lets the user search for pictures by inputing a search term in the search bar. The pictures are coming from the unsplash API.
+
+![Screenshot_1](https://github.com/RossanaPetrar/Picture-Finder-React--Tutorial-WIP/assets/97961954/eb72d957-6de7-4bec-a504-1134afa1b76b)
+
+![Screenshot_2](https://github.com/RossanaPetrar/Picture-Finder-React--Tutorial-WIP/assets/97961954/b3f03a0c-c880-4f7f-9182-e4365b723684)
+
+![Screenshot_3](https://github.com/RossanaPetrar/Picture-Finder-React--Tutorial-WIP/assets/97961954/abcc72b0-2f89-401e-884f-35d3db48bc2f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
